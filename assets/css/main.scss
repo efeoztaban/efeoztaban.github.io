@@ -40,3 +40,21 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 @import "dark-mode";
+
+body {
+    background-color: #121212 !important; /* Dark background */
+    color: #e0e0e0 !important; /* Light text */
+}
+
+a {
+    color: #bb86fc !important; /* Soft purple for links */
+}
+
+.navbar, .footer {
+    background-color: #1f1f1f !important; /* Darker navbar and footer */
+}
+
+.card, .content, .sidebar {
+    background-color: #1c1c1c !important;
+    border-color: #333333 !important;
+}
