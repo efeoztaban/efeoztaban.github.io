@@ -12,7 +12,7 @@ title                    : "Efe Öztaban"
 title_separator          : "-"
 name                     : &name "Efe Öztaban"
 description              : &description "personal description"
-URL                      : "https://efeoztaban.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : "https://efeoztaban.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "efeoztaban.github.io"
 
