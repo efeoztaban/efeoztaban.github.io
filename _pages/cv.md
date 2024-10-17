@@ -8,3 +8,6 @@ redirect_from:
 ---
 
 [EfeÖztaban_2024.pdf](https://github.com/user-attachments/files/17402360/EfeOztaban_2024__2pages_.pdf)
+
+
+<iframe src="https://github.com/user-attachments/files/17402360/EfeOztaban_2024__2pages_.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
