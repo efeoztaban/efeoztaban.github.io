@@ -6,12 +6,9 @@ venue: "Sabancı University, Faculty of Engineering and Science"
 date: 2014-01-01
 location: "İstanbul, Turkey"
 ---
-
-
 - Held weekly recitation hours and office hours to help students with the course content.
 - Prepared and graded homework and exams.
 - Worked in the following courses:
-
   - **NS 213 Concepts of Physics for Scientists and Engineers**
   - **NS 214 Oscillations, Waves and Optics**
   - **CS 404 Artificial Intelligence**
