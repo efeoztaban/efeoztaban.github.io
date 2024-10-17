@@ -154,9 +154,12 @@
       <li><a href="htps://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}
       {% if site.author.spotify %}
-      <a href="{{ site.author.spotify }}" target="_blank" title="Spotify">
-      <img src="{{ site.baseurl }}/assets/icons/spotify.png" alt="Spotify" style="width:24px; height:24px;">
-      </a>
+        <li>
+          <a href="{{ site.author.spotify }}" target="_blank" title="Spotify">
+            <img src="{{ site.baseurl }}/assets/icons/spotify.png" alt="Spotify" style="width:12px; height:12px;" class="icon-pad-right">
+            Spotify
+          </a>
+        </li>
       {% endif %}
     </ul>
   </div>
