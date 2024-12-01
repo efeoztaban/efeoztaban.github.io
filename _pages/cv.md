@@ -1,11 +1,3 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
 
 [EfeOztaban_2024.pdf](https://github.com/user-attachments/files/17968817/EfeOztaban_CV.8.pdf)
 
